@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shiv21297
 - 😄 Pronouns: He/Him.
 - 👀 I’m interested in Quality assurance, Test automation for web and mobile applications, and DevOps practices
-- 🌱 I’m currently learning Python and API testing.
+- 🌱 I’m currently learning Advance Java, Python and API testing.
 - 💞️ I’m looking to collaborate on projects related to test automation architecture and improving test coverage.
 - 📫 How to reach me linkedin.com/in/shiv2102
 - ⚡ strength: I can do UI designing as well as Testing.
