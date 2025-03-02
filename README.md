@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shiv21297
+- 👋 Hi, I’m @shiv0297
 - 😄 Pronouns: He/Him.
 - 👀 I’m interested in Quality assurance, Test automation for web and mobile applications, and DevOps practices
 - 🌱 I’m currently learning Advance Java, Python and API testing.
